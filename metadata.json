@@ -1,0 +1,6 @@
+{
+  "name": "어둠의 숲 파일 다운로드",
+  "description": "어둠의 숲(Dark Forest) 3D 생존 호러 게임 HTML 파일 다운로드 및 실시간 웹 플레이어",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
