@@ -283,7 +283,7 @@ export default function App() {
                   </div>
                   <div className="border border-white/10 p-3">
                     <div className="text-white/40 mb-1">FILE SIZE</div>
-                    <div className="text-white font-medium">608 KB (622,223 Bytes)</div>
+                    <div className="text-white font-medium">617 KB (630,926 Bytes)</div>
                   </div>
                   <div className="border border-white/10 p-3">
                     <div className="text-white/40 mb-1">ENGINE / TECH</div>
