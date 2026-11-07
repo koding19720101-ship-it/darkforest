@@ -128,8 +128,8 @@ export default function App() {
         {/* Top Tagline / Context */}
         <div className="text-center mb-8">
           <div className="inline-flex items-center gap-2 border border-white/20 px-3 py-1 text-xs font-mono tracking-widest uppercase mb-4 text-white/80">
-            <span className="w-1.5 h-1.5 bg-white inline-block"></span>
-            3D Survival Horror Game · Standalone HTML
+            <span className="w-1.5 h-1.5 bg-emerald-400 inline-block animate-pulse"></span>
+            최신 업데이트 버전 · 3D Standalone HTML
           </div>
           <h1 className="text-3xl sm:text-5xl lg:text-6xl font-extrabold tracking-tight text-white mb-3 text-balance">
             어둠의 숲 — 4일
@@ -283,15 +283,15 @@ export default function App() {
                   </div>
                   <div className="border border-white/10 p-3">
                     <div className="text-white/40 mb-1">FILE SIZE</div>
-                    <div className="text-white font-medium">608 KB (622,592 Bytes)</div>
+                    <div className="text-white font-medium">608 KB (621,947 Bytes)</div>
                   </div>
                   <div className="border border-white/10 p-3">
                     <div className="text-white/40 mb-1">ENGINE / TECH</div>
                     <div className="text-white font-medium">Three.js, WebGL, Web Audio Synth</div>
                   </div>
                   <div className="border border-white/10 p-3">
-                    <div className="text-white/40 mb-1">SUPPORTED BROWSERS</div>
-                    <div className="text-white font-medium">Chrome, Safari, Edge, Firefox</div>
+                    <div className="text-white/40 mb-1">STATUS</div>
+                    <div className="text-emerald-400 font-medium">최신 파일 반영 완료 (Updated)</div>
                   </div>
                 </div>
 
